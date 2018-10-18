@@ -1,3 +1,3 @@
 # Nethereum.BlockchainMessaging
 
-Nethereum Blockchain Processing adatpers for Messaging
+Nethereum Blockchain Processing adapters for Messaging
